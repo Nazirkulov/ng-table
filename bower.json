@@ -5,5 +5,10 @@
   "main": [
     "ng-table.js",
     "ng-table.css"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "1.9.1 - 3",
+    "bootstrap": "^3.3.0"
+  },
+  "moduleType": "globals"
 }
